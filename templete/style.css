@@ -80,7 +80,7 @@ img{
     border-radius: 0.5rem;
 }
 img.medium{
-    max-width: 29rem;
+    max-width: 300px;
     width: 100%;
 }
 /* Card */
